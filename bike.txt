@@ -2,3 +2,4 @@ pulser
 platina
 bullet
 Yamaha fzs
+platina
