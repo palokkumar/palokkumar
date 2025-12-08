@@ -3,3 +3,5 @@ platina
 bullet
 Yamaha fzs
 platina
+hank
+turbo
