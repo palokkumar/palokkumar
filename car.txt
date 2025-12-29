@@ -1,3 +1,5 @@
 maruti
 skoda
+pazero
 bmw
+verna
